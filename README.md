@@ -1,2 +1,2 @@
 # Tracking -
-Aqui vou explorar o uso do tracking para melhorar o object detection para objetos muito especificos
+Here I will explore the use of tracking to enhance object detection for very specific objects.
